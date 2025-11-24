@@ -1,4 +1,5 @@
 # 🌧️ Hydrology Unit Hydrograph Automation (Google Colab Ready)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mirza9003/Hydrology-Unit-Hydrograph-Automation/blob/main/Hydrology_Unit_Hydrograph.ipynb)
 
 This repository contains an automated Python tool to generate a **1-inch Unit Hydrograph** directly from rainfall–discharge data.  
 It replicates hydrology lab workflows — computing rainfall excess, direct runoff, and plotting both **Unit Hydrograph** and **Total Hydrograph** automatically.
