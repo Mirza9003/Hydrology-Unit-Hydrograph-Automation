@@ -1,9 +1,7 @@
-# ============================================================
-#  Hydrology Example – Unit Hydrograph Derivation in Colab
-#  Author: Mirza (Example Workflow)
-# ============================================================
+
 # ============================================================
 #  AUTOMATED UNIT HYDROGRAPH GENERATOR (Google Colab Version)
+By Mirza Md Tasnim Mukarram, PhD Student, University of Iowa
 # ============================================================
 
 import pandas as pd
