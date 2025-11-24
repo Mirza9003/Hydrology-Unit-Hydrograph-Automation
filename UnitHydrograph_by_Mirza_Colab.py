@@ -1,7 +1,7 @@
 
 # ============================================================
 #  AUTOMATED UNIT HYDROGRAPH GENERATOR (Google Colab Version)
-By Mirza Md Tasnim Mukarram, PhD Student, University of Iowa
+#  By Mirza Md Tasnim Mukarram, PhD Student, University of Iowa
 # ============================================================
 # Import some necessary libraries
 
