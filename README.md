@@ -16,4 +16,7 @@ It replicates hydrology lab workflows — computing rainfall excess, direct runo
 ---
 
 ## Example Template
-A sample input template is provided:
+A sample input template is provided in the code.
+
+## Citation
+Mukarram, M.M.T. (2025). Hydrology Unit Hydrograph Automation. GitHub Repository.
